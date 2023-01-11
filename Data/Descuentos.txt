@@ -1,0 +1,6 @@
+Descuento	Categoría de Descuento
+0	"Non"
+0,15	"Day Off Full"
+0,2	"Cyber Monday"
+0,25	"Balck Fraday"
+0,35	"Special Day"
